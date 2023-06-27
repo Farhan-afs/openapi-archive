@@ -4,7 +4,7 @@ This repository contains [OpenAPI](https://www.openapis.org/) specifications for
 
 [Changelog](https://verifiet.com/changelog)
 
-Files can be found at `opennapi/spec.json` and  `openapi/spec.yaml`.
+Files can be found at `opennapi/openapi.json` and  `openapi/spec.yaml`.
 
 
 To submit an issue regarding the specification please contact us by the chat on our website.     
